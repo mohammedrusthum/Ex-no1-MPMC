@@ -1,4 +1,4 @@
-# Arithmetic-operation-using-8086
+
 # 8086 Assembly Language Programs for Arithmetic Operations
 
 ## AIM
@@ -54,17 +54,13 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|       1200🔢       01         12
+<img width="1600" height="1200" alt="output table addition MPMC" src="https://github.com/user-attachments/assets/e0881b97-6875-47e0-a5ab-28dde7766aa7" />
 
-|         1200                    |
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1422" height="1080" alt="manual calculation addition MPMC" src="https://github.com/user-attachments/assets/680b07aa-6d3c-4757-b46e-686dc4c4e123" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
 
@@ -107,15 +103,14 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="1599" height="899" alt="OUTPUT TABLE SUBTRACTION" src="https://github.com/user-attachments/assets/048f2702-52d1-4118-8a36-614cc5a8f6bb" />
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1599" height="899" alt="MANUAL CALC SUBTRACTION" src="https://github.com/user-attachments/assets/cc949f80-703b-41e3-bd61-46f5bff57331" />
 
----
+
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
@@ -156,15 +151,13 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
+<img width="1600" height="1069" alt="OT MULTIPLICATION" src="https://github.com/user-attachments/assets/8a9762b1-4b86-4f8a-82d4-d31e35789b61" />
+
 
 #### Manual Calculations
 
-(Add your calculation here)
+<img width="1599" height="899" alt="MC MULT" src="https://github.com/user-attachments/assets/a8ff2ca9-aa5a-4590-8418-306dfaf1eea5" />
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
 
@@ -200,16 +193,14 @@ END
 ```
 
 #### Output Table
+<img width="1599" height="899" alt="OT DIVISION" src="https://github.com/user-attachments/assets/5f5719d9-6b31-42fb-ac01-8d09c43ccea8" />
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
-| ----------------------- | ------------------------ |
-|                         |                          |
 
 #### Manual Calculations
 
-(Add your calculation here)
 
----
+<img width="1599" height="899" alt="MC DIV" src="https://github.com/user-attachments/assets/a4d6b9e6-bcdc-4d71-bc7f-c54c7c135d1a" />
+
 ## OUTPUT FROM MASM SOFTWARE
 
 
